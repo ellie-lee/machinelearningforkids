@@ -8,5 +8,3 @@ machinelearningforkids.co.uk 사이트에서 머신러닝 연습할 때 사용�
 
 youtube에 'Machine Learning for Kids'로 강좌를 올리고 있으니 동영상 강좌도 봐주세요. 
 https://youtube.com/playlist?list=PL3geb_qrBQYdBSpvY4PI8nso02lZ0iDWM
-
-- Ellie Lee
